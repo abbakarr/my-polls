@@ -43,7 +43,7 @@ let users = {
   naeemm: {
     id: 'naeemm',
     password:'pass246',
-    name: 'Zenobia Oshikanlu',
+    name: 'Naeemm Idris',
     avatarURL: 'https://i.pravatar.cc/300',
     answers: {
       "xj352vofupe1dqz9emx13r": 'optionOne',
