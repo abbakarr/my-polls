@@ -23,10 +23,14 @@ Functionalities
 
 Login: The user has to be authenticated before log in, you can use any these existing users to impersonate and log in 
 users
-1. username: sarahedo password: password123
-1. username: tylermcginnis password: abc321
-1. username: mtsamis password: xyx123
-1. username: zoshikanlu password: pass246
+1. username: ummylolo 
+   password: password123
+1. username: idrisa 
+   password: abc321
+1. username: hasisi 
+   password: xyx123
+1. username: naeemm 
+   password: pass246
 
 Homepage: after login in, you can be redirected to this homepage with the name dashboard, where you can see the questions displayed in two categories of "unanswered" & and "answered"
 Poll details:
