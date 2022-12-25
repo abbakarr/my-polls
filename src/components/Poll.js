@@ -21,7 +21,7 @@ const Poll = ({question, title, author, timestamp}) => {
         <Card.Text className="text-danger">
           Open to see the poll questions and express your mind.
         </Card.Text>
-        <div className="poll-date">{formatDate(timestamp)}</div>
+        <div className="poll-date ">{formatDate(timestamp)}</div>
         <Link to={"questions/" + question.id}>
         <Button className="bg-dark" variant="primary">Open poll</Button></Link>
       </Card.Body>
